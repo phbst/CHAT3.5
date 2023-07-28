@@ -1,0 +1,31 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/new"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "原数字ai平台",
+    "navigationBarBackgroundColor": "#005500",
+    "backgroundColor": "#F8F8F8",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "list": [
+      {
+        "text": "首页",
+        "iconPath": "static/屏幕截图 2023-07-01 112041.png",
+        "selectedIconPath": "static/屏幕截图 2023-07-01 112100.png",
+        "pagePath": "pages/index/index"
+      },
+      {
+        "text": "我的",
+        "iconPath": "static/屏幕截图 2023-07-01 112114.png",
+        "selectedIconPath": "static/屏幕截图 2023-07-01 112120.png",
+        "pagePath": "pages/index/new"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
